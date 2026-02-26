@@ -1,0 +1,14 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# PCAP outputs (optional)
+output*.pcap
+filtered*.pcap
+
+# VS files
+.vs/
+build/
